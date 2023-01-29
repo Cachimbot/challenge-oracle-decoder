@@ -3,7 +3,7 @@
 Se realizó un encriptador de texto utilizando HTML, CSS y Javascript, la función de este es realizar encriptación de las palabras que el usuario proporcione y a la vez este tiene la función de desencriptar.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-###Descripción
+### Descripción
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
